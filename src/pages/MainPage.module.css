@@ -1,0 +1,227 @@
+.jimmyDeanYn0l7uwbrpwUnsplasIcon {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 2409px;
+  height: 1672px;
+  object-fit: cover;
+}
+.bg,
+.bgChild {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.bgChild {
+  top: 2px;
+  background-color: rgba(13, 13, 13, 0.76);
+  height: 783px;
+}
+.bg {
+  top: 239px;
+  height: 785px;
+  overflow: hidden;
+}
+.cardIcon,
+.wrapperEllipse1Child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 340px;
+  height: 167px;
+  object-fit: cover;
+}
+.wrapperEllipse1Child {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  top: 6px;
+  transform: scale(1.143);
+}
+.wrapperEllipse1 {
+  position: absolute;
+  top: 7px;
+  left: 13px;
+  border-radius: 50%;
+  width: 133px;
+  height: 133px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.boiledEggs {
+  position: relative;
+  font-weight: 600;
+}
+.loremIpsumDolor {
+  position: relative;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+  width: 168px;
+  height: 59px;
+  flex-shrink: 0;
+}
+.boiledEggsParent {
+  position: absolute;
+  top: 16px;
+  left: 163px;
+  width: 168px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.div {
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-9xs) var(--padding-7xs);
+  background-color: var(--color-tomato);
+  position: absolute;
+  top: 128px;
+  left: 266px;
+  border-radius: var(--br-8xs);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cardParent {
+  position: relative;
+  width: 340px;
+  height: 167px;
+}
+.container,
+.groupParent {
+  display: flex;
+  justify-content: flex-start;
+}
+.container {
+  position: absolute;
+  top: 128px;
+  left: 266px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-tomato);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-9xs) var(--padding-7xs);
+  font-size: var(--font-size-sm);
+}
+.groupParent {
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-xl);
+}
+.burgerParent,
+.cakeParent {
+  position: absolute;
+  top: 16px;
+  width: 168px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+}
+.cakeParent {
+  left: 162px;
+  display: flex;
+  justify-content: flex-start;
+}
+.burgerParent {
+  left: 161px;
+}
+.burgerParent,
+.cards,
+.groupContainer {
+  display: flex;
+  justify-content: flex-start;
+}
+.groupContainer {
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-xl);
+}
+.cards {
+  position: absolute;
+  top: calc(50% - 207px);
+  left: calc(50% - 530px);
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+}
+.oo {
+  color: #ff0a0a;
+}
+.o {
+  color: #ff0808;
+}
+.foodyZone {
+  position: relative;
+}
+.searchFood {
+  position: absolute;
+  top: 11px;
+  left: 15px;
+}
+.searchFoodWrapper {
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px solid #ff0909;
+  box-sizing: border-box;
+  width: 285px;
+  height: 40px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: var(--font-size-base);
+}
+.frameParent,
+.top {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+}
+.top {
+  top: 85px;
+  left: 120px;
+  width: 1200px;
+  align-items: center;
+  justify-content: space-between;
+}
+.frameParent {
+  margin: 0;
+  top: 179px;
+  left: calc(50% - 163px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+}
+.topsection {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 241px;
+  overflow: hidden;
+  font-size: 32px;
+}
+.mainPage {
+  position: relative;
+  background-color: #323434;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
